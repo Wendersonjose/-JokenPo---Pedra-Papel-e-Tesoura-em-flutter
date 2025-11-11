@@ -41,8 +41,8 @@ O JokenPo é uma implementação digital do famoso jogo de mãos "Pedra, Papel e
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/jokepo-flutter.git
-cd jokepo-flutter
+git clone https://github.com/Wendersonjose/-JokenPo---Pedra-Papel-e-Tesoura-em-flutter.git
+cd -JokenPo---Pedra-Papel-e-Tesoura-em-flutter
 ```
 
 2. **Instale as dependências**
