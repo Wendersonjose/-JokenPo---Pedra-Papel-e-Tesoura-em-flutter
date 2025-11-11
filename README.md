@@ -101,7 +101,12 @@ imagens/
 
 ## 🧑‍💻 Desenvolvedor
 
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por **Wenderson Jose**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenderson-jose)
+
+📧 Entre em contato através do [LinkedIn](https://www.linkedin.com/in/wenderson-jose) 
+
 
 ## 📝 Licença
 
